@@ -1,0 +1,3 @@
+tkinter and random libraries coin flip game
+
+tkinter ve random kütüphaneleri yazı tura oyunu
