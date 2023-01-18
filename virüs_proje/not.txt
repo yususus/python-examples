@@ -1,0 +1,7 @@
+https://www.youtube.com/watch?v=YZrxOq4UeS0&feature=youtu.be
+
+
+resim dosyasını dahil ederek exe alma işlemi
+
+
+pyinstaller --onefile --noconsole deneme2.py
